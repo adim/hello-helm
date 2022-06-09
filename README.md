@@ -15,4 +15,3 @@ imagePullSecrets:
 ```
 pullSecret: regsecret
 ```
-
